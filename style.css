@@ -1,0 +1,7 @@
+tr:nth-child(-n + 5) {
+  background-color: blue;
+}
+
+tr[data-symbol='usdt'] {
+  background-color: green;
+}
